@@ -1,7 +1,6 @@
 import pandas as pd
 import streamlit as st
 from PIL import Image
-import matplotlib.pyplot as plt
 import plotly.express as px
 
 st.markdown("<h1 style='text-align: center; color: black;'>Explore The Continents</h1>", unsafe_allow_html=True)
