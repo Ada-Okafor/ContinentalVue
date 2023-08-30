@@ -1,3 +1,4 @@
 Pandas
 Streamlit
 plotly
+matplotlib
