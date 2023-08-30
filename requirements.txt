@@ -2,3 +2,4 @@ Pandas
 Streamlit
 plotly
 matplotlib
+mysql
