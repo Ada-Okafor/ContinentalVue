@@ -2,8 +2,4 @@ Pandas
 Streamlit
 plotly
 matplotlib
-[mysql]
-host='relational.fit.cvut.cz'
-database = 'world'
-user = 'guest'
-password = 'relational'
+mysql.connector
